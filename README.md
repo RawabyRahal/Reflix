@@ -28,5 +28,6 @@ Reflix is a movie rental application built with React and utilizes local storage
     npm start
 
 2. Open the app in your browser:
+
    Once the server has started, navigate to http://localhost:3000 in your web browser to view the Reflix app.
 
