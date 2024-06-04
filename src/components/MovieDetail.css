@@ -1,0 +1,41 @@
+.movie-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    padding: 10px;
+    background-color: white;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ffffff;
+    font-family: cursive;
+}
+
+.movie-card h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+
+.movie-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 70%;
+    margin-bottom: 20px;
+}
+
+.description {
+    text-align: center;
+    color: #545454;
+    width: 80%;
+    padding-bottom: 15px;
+}
+
+.year {
+    font-weight: bold;
+    color: #444;
+    font-size: 18px;
+}

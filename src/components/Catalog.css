@@ -1,0 +1,49 @@
+.catalog {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 3vw;
+    padding-left: 25px;
+}
+
+.elements {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.budget {
+    display: flex;
+    justify-content: end;
+    padding-right: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(calc((146 + 51) / 2), calc((105 + 204) / 2), calc((182 + 255) / 2));
+
+}
+
+input {
+    height: 6vh;
+    width: 60vh;
+    font-size: 17px;
+    margin-left: 40vw;
+    border-radius: 8px;
+    padding: 5px;
+    font-family: cursive;
+    border-color: black;
+    outline: none;
+}
+
+.search-icon {
+    position: absolute;
+    color: black;
+    margin-left: 61vw;
+    padding: 15px;
+}
+
+.text {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    padding: 15px;
+}

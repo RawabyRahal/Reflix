@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    gap: 20vh;
+    justify-content: center;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 10vw;
+    height: 20vh;
+    border-radius: 25px;
+    padding: 30px;
+    border: 1px solid #ffffff40;
+    box-shadow: 0 5px 20px rgba(255, 255, 255, 0.653);
+    background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+}
+
+.who {
+    color: rgb(244, 242, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-top: 15vh;
+    font-family: cursive;
+}
+
+.user-name {
+    font-weight: bold;
+    font-family: cursive;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.container a {
+    text-decoration: none;
+}

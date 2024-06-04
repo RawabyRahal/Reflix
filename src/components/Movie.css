@@ -1,0 +1,26 @@
+.movie {
+    position: relative;
+    width: 25vw;
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+img {
+    height: 65vh;
+    width: 25vw;
+    margin: 10px;
+    border-radius: 8px;
+    display: inline-block;
+    flex-wrap: wrap;
+    gap: 20px;
+    box-shadow: 5px 5px 25px rgba(255, 255, 255, 0.653);
+    border: 1px solid #ffffff40;
+}
+
+.rent {
+    position: absolute;
+    border-radius: 50%;
+    top: 6%;
+    right: 0;
+    cursor: pointer;
+}
