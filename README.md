@@ -7,7 +7,7 @@ Reflix is a movie rental application built with React and utilizes local storage
 1. **Clone the repository**:
    
     ```bash
-   git clone https://github.com/your-username/reflix.git
+   git clone https://github.com/RawabyRahal/Reflix.git
 
 2. Navigate to the project directory:
    
