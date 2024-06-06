@@ -9,6 +9,9 @@ Reflix is a movie rental application built with React and utilizes local storage
 - **JavaScript:** A programming language used for adding interactivity and logic to the game.
 - **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the application.
 
+### Storage
+- **LocalStorage:** A web storage API that allows data to be stored locally within the user's browser.
+
 ## Installation
 
 1. **Clone the repository**:
