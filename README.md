@@ -6,6 +6,7 @@ Reflix is a movie rental application built with React and utilizes local storage
 
 ### Frontend
 - **React:** A JavaScript library for building user interfaces.
+- **JavaScript:** A programming language used for adding interactivity and logic to the game.
 - **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the application.
 
 ## Installation
