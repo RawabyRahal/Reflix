@@ -2,6 +2,12 @@
 
 Reflix is a movie rental application built with React and utilizes local storage. Users can browse a catalog of movies, select titles to rent, and manage their budget. This unique rental system refunds users upon returning movies.
 
+## Technologies Used
+
+### Frontend
+- **React:** A JavaScript library for building user interfaces.
+- **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the application.
+
 ## Installation
 
 1. **Clone the repository**:
